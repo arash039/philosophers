@@ -42,8 +42,7 @@ Run the program with the following arguments:
 ```
 
 This runs the simulation with 5 philosophers, where each philosopher dies if they don't eat for 800ms, takes 200ms to eat, and 200ms to sleep.
-Bonus Part
-The bonus part implements the same problem using processes and semaphores instead of threads and mutexes. It can be found in the philo_bonus/ directory.
+
 ## Notes
 
    - The program adheres to the 42 Norm coding standard
